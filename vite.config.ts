@@ -16,7 +16,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/my-portfolio/',
+  base: '/Work-Samples_khy/',
   
   build: {
     outDir: 'dist',
