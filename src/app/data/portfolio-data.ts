@@ -50,20 +50,20 @@ export interface CaseStudy {
   }[];
 }
 
-export const positioning = "Transforming complex business challenges into strategic growth opportunities through data-driven insights and proven methodologies";
+export const positioning = "From pre-boarding to post-exit, I carry out a wide range of HR functions to optimize the Employee eXperience. Furthermore, I support data-driven strategic decision-making by developing visualization dashboards that track organizational culture metrics, turnover trends, and recruitment channel efficiency, including Cost Per Applicant (CPA)";
 
 export const coreCompetencies: CoreCompetency[] = [
   {
-    title: "Strategic Transformation",
-    description: "Leading enterprise-wide transformation initiatives with focus on operational excellence, digital innovation, and sustainable growth strategies"
+    title: "HR Planning & Labor Relations",
+    description: "Led compensation restructuring and re-designed job grading/title systems. Managed strategic workforce allocation, including internal transfers and promotions. Actively participated in Labor-Management Councils and collective bargaining agreements (CBA). Experienced in handling internal grievances and ethics reporting compliance."
   },
   {
-    title: "Data Analytics & Insights",
-    description: "Leveraging advanced analytics and AI/ML frameworks to uncover actionable insights that drive measurable business outcomes"
+    title: "Organizational Culture & Learning and Development",
+    description: "Analyzed the impact of external corporate reputation on internal employee engagement and developed mitigation strategies. Conducted organizational health diagnostics using frameworks like CVF and BIE, followed by actionable post-survey initiatives. Designed and facilitated diverse training programs ranging from mandatory compliance and onboarding to cutting-edge AI/LLM integration workshops."
   },
   {
-    title: "Change Management",
-    description: "Orchestrating organizational change through stakeholder alignment, capability building, and implementation of best-in-class frameworks"
+    title: "Talent Acquisition",
+    description: "Managed full-cycle recruitment across various employment types, including permanent, contract, outsourced, and executive search. Utilized diverse sourcing channels such as open recruitment, direct sourcing, career fairs, and search firms. Proficient in optimizing Applicant Tracking Systems (ATS) like NineHire and proprietary in-house platforms to streamline the hiring process."
   }
 ];
 
