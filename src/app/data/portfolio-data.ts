@@ -50,7 +50,7 @@ export interface CaseStudy {
   }[];
 }
 
-export const positioning = "From pre-boarding to post-exit, I carry out a wide range of HR functions to optimize the Employee eXperience. Furthermore, I support data-driven strategic decision-making by developing visualization dashboards that track organizational culture metrics, turnover trends, and recruitment channel efficiency, including Cost Per Applicant (CPA)";
+export const positioning = "From pre-boarding to post-exit, I carry out a wide range of HR functions to optimize the Employee Experience, utilizing data dashboards to support data-driven decision-making regarding culture, turnover, and Recruitment channel.";
 
 export const coreCompetencies: CoreCompetency[] = [
   {
