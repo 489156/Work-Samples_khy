@@ -1,6 +1,6 @@
 # 공개 가능한 수행업무 정리본입니다.
 
-##figma make 활용##
+##figma(make) + deepseek 활용##
 
 ## 📁 프로젝트 구조
 
